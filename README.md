@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Lowkey Lofi](https://lowkeylofi.vercel.app/)
 
-- 🌱 I’m currently learning **Tailwind CSS, Javascript, and CSS**
+- 🌱 I’m currently learning **frontend development**
 
 - 👨‍💻 All of my projects are available at [https://soumyavatti.co/](https://soumyavatti.co/)
 
