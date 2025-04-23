@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on [Lowkey Lofi](https://lowkeylofi.vercel.app/)
+- 🔭 I’m currently working on [Lowkey Lofi](https://lowkeylofi.app/), [2](https://lowkeylofi.vercel.app/)
 
 - 🌱 I’m currently learning **frontend development**
 
