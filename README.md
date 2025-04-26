@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **frontend development**
 
-- 👨‍💻 All of my projects are available at [https://soumyavatti.co/](https://soumyavatti.co/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://soumyavatti.co/)
 
-- 📄 Know about my experiences [https://soumyavatti.co/files/cv.pdf](https://soumyavatti.co/files/cv.pdf)
+- 📄 Know about my experiences by checking out my [resume](https://soumyavatti.co/files/cv.pdf)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumyavatti) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:svatti@proton.me) [![](https://visitcount.itsvg.in/api?id=soumyavatti&icon=0&color=0)](https://visitcount.itsvg.in)
